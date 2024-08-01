@@ -19,7 +19,7 @@ const Projects = () => {
                             <div className="card-body">
                                 <h5 className="card-title">Vintage Treasures: Reviving The Classics</h5>
                                 <h6 className="card-subtitle mb-2 text-light">
-                                    Html5 - Css3 - JavaScript - Bootstrap 5
+                                    Html 5 - Css 3 - JavaScript - Bootstrap 5
                                 </h6>
                                 <p className="card-text">
                                     I created a website dedicated to game development, featuring tutorials,
@@ -136,7 +136,7 @@ const Projects = () => {
                                 </p>
                             </div>
                             <div className="card-footer">
-                                <a href="https://github.com/ahmedmedhat-se/PRODIGY_WD_04" target='_blank' className="btn">
+                                <a href="https://github.com/ahmedmedhat-se/my-portfolio" target='_blank' className="btn">
                                     <FontAwesomeIcon icon={faGithub} /> Github
                                 </a>
                             </div>
@@ -148,7 +148,7 @@ const Projects = () => {
                                 <img height={"300"}
                                     src="https://img.freepik.com/free-vector/app-development-concept-design_23-2148670525.jpg"
                                     className="card-img-top"
-                                    alt="WattWizards" />
+                                    alt="WattWizards"/>
                             </div>
                             <div className="card-body">
                                 <h5 className="card-title">WattWizards</h5>
@@ -161,7 +161,7 @@ const Projects = () => {
                                 </p>
                             </div>
                             <div className="card-footer">
-                                <a href="#" target='_blank' className="btn disabled">
+                                <a href="https://github.com/ahmedmedhat-se/WattWizards" target='_blank' className="btn">
                                     <FontAwesomeIcon icon={faGithub} /> Github
                                 </a>
                             </div>

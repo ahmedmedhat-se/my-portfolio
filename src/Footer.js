@@ -14,7 +14,7 @@ const Footer = () => {
                         style={{ backgroundColor: '#ac2bac' }}
                         target="_blank"
                         rel="noopener noreferrer"
-                        href="#!"
+                        href="https://www.instagram.com/sizzlinmedhat?igsh=MXJnOGZtZm1qYWhrdw=="
                         role="button"
                     >
                         <FontAwesomeIcon icon={faInstagram} />
@@ -46,10 +46,8 @@ const Footer = () => {
                 </section>
             </div>
             <div className="text-center p-3">
-                © 2024 Copyright:
-                <a className="text-body" href="#Home">
-                    Ahmed Medhat
-                </a>
+                © 2024 Copyright :
+                <a className="text-body" href="#Home"> Ahmed Medhat</a>
             </div>
         </footer>
     );
