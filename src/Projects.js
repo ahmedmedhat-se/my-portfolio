@@ -128,7 +128,7 @@ const Projects = () => {
                             <div className="card-body">
                                 <h5 className="card-title">Portfolio</h5>
                                 <h6 className="card-subtitle mb-2 text-light">
-                                Css 3 - JavaScipt - Bootstrap 5 - React.js - Node.js
+                                Html 5 - Css 3 - JavaScipt - Bootstrap 5 - React.js - Node.js
                                 </h6>
                                 <p className="card-text">
                                     I developed a portfolio showcasing my skills in web development, graphic design, and data analysis,
