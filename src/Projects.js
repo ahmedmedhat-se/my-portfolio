@@ -136,7 +136,7 @@ const Projects = () => {
                                 </p>
                             </div>
                             <div className="card-footer">
-                                <a href="https://github.com/ahmedmedhat-se/Portfolio" target='_blank' className="btn">
+                                <a href="https://github.com/ahmedmedhat-se/PRODIGY_WD_04" target='_blank' className="btn">
                                     <FontAwesomeIcon icon={faGithub} /> Github
                                 </a>
                             </div>

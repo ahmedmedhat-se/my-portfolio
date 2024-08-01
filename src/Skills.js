@@ -12,8 +12,8 @@ const Skills = () => {
                             <div className="background"></div>
                             <img
                                 className="image"
-                                src="https://images.credly.com/size/680x680/images/936c2900-1f39-4fd7-b458-9760001008fd/profile_img.jpg"
-                                alt="Skills"
+                                src="https://images.credly.com/images/82330f4a-4ab5-4b74-9ed3-7a7dcf9f7b32/standard_profile_img.jpg"
+                                alt="Image for me"
                             />
                         </div>
                         <div className="responsive-container-block text-container">
